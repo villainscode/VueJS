@@ -35,7 +35,7 @@ $ npm install -g @vue/cli
 $ vue --version 
 ```
 
-## project 생성
+## Project 생성
 ```javascript
 $ vue create . // 프로젝트 생성  
 $ npm install   // 의존성 설치 
